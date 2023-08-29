@@ -51,3 +51,8 @@
   {"desc4":"A standout feature of Standoff 2 has always been its wide array of weapons, each with its own distinct attributes and mechanics. With v2.10.0, the developers have paid special attention to weapon balance, fine-tuning the stats of various firearms to ensure a more level playing field. Additionally, the update introduces an expanded weapon customization system, allowing players to modify their weapons with attachments and skins, further personalizing their loadouts.","photo4":"https://iili.io/HyhhKa1.png"},
   {"desc5":"Immersive sound design is crucial in FPS games, as it contributes to the overall atmosphere and enhances situational awareness. Private Standoff 2 v2.10.0 incorporates a revamped sound system that provides more accurate audio cues. This improvement enables players to pinpoint the source of gunfire, footsteps, and other in-game sounds, offering a competitive advantage to those who can interpret audio cues effectively.","photo5":"https://iili.io/HyhhdGV.jpg"},
   {"desc6":"Multiplayer games thrive on the interactions between players, and Standoff 2 recognizes this by introducing improved matchmaking and social features in v2.10.0. The update enhances the matchmaking algorithm, resulting in more balanced and competitive matches. Additionally, the integration of new social tools simplifies the process of teaming up with friends, making it easier than ever to coordinate strategies and dominate the battlefield together. ","photo6":"https://iili.io/Hyhh26B.jpg"}
+
+ ]
+ 
+}
+
