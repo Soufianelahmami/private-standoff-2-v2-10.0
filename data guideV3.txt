@@ -31,9 +31,9 @@
 
   
  "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
+  {"name":"ЧИТЫ НА Standoff 2  БЕЗ БАНА","package_name":"com.updatestandoff.seasondownloadgame","icon":"https://iili.io/JI0SFrN.png"},
+  {"name":"ЧИТЫ НА Standoff 2 ","package_name":"com.updatestandoff.seasondownloadgame","icon":"https://iili.io/JI0Sf2I.png"},
+  {"name":"НОВЫЕ РАБОЧИЕ ЧИТЫ НА Standoff 2 ","package_name":"com.updatestandoff.seasondownloadgame","icon":"https://iili.io/JI0S31p.png"}
    ],
 
 "download_dialog_txt":"download text from server",
