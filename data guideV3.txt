@@ -38,7 +38,7 @@
 
 "download_dialog_txt":"download text from server",
 "banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
+"interstisial_network_choice":"unity", 
 "reward_network_choice":"unity",
 "native_network_choice":"unity"
   
